@@ -75,7 +75,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
 
-    labels[0]:{"texts":["당신과 닮은 선수가 있는 팀은 이 팀입니다."]},
+    labels[0]:{"texts":["당신과 닮은 선수가 있는 팀은 이 팀입니다."],
+              "videos":[]},
     labels[1]:{"texts":["당신과 닮은 선수가 있는 팀은 이 팀입니다."]},
     labels[2]:{"texts":["당신과 닮은 선수가 있는 팀은 이 팀입니다."]},
 
