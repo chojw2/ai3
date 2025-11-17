@@ -76,8 +76,8 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     # },
 
     labels[0]:{"texts":["당신과 닮은 선수가 있는 팀은 이 팀입니다."],
-              "videos":["https://www.youtube.com/watch?v=j7YXzDsdk5Q"]},
-              "images":["https://i.namu.wiki/i/ElCBdnUJxk1EEUYvVbHKOG-YQ3-nOnFTD1iLIehUK5PhBU5ibKLYfbfiRhRYt4fURZo8sGroj_xHA0SgECpa0A.webp"]
+              "videos":["https://www.youtube.com/watch?v=j7YXzDsdk5Q"],
+              "images":["https://i.namu.wiki/i/ElCBdnUJxk1EEUYvVbHKOG-YQ3-nOnFTD1iLIehUK5PhBU5ibKLYfbfiRhRYt4fURZo8sGroj_xHA0SgECpa0A.webp"],}
     labels[1]:{"texts":["당신과 닮은 선수가 있는 팀은 이 팀입니다."]},
     labels[2]:{"texts":["당신과 닮은 선수가 있는 팀은 이 팀입니다."]},
 
